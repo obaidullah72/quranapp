@@ -76,7 +76,7 @@ quranapp/
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/your-username/quranapp.git
+   git clone https://github.com/obaidullah72/quranapp.git
    cd quranapp
    ```
 
